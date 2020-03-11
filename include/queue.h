@@ -6,5 +6,7 @@
 
 bool queueGradualValueTest();
 bool queueGradualPtrTest();
+bool queueGradualStructValueTest();
+bool queueGradualStructPtrTest();
 
 #endif

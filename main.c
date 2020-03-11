@@ -3,7 +3,9 @@
 
 bool (*testSet[])() = { \
 	queueGradualValueTest, \
-	queueGradualPtrTest \
+	queueGradualPtrTest, \
+	queueGradualStructValueTest, \
+	queueGradualStructPtrTest
 };
 
 int main(int argc, char* argv[]) {
